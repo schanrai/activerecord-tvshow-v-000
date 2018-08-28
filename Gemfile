@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem 'pry'
 gem "rspec"
-gem 'activerecord', :require => 'active_record'
+gem "activerecord"
 gem "sqlite3"
 gem "rake"
 gem "database_cleaner"
