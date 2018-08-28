@@ -3,5 +3,5 @@ gem 'pry'
 gem "rspec"
 gem 'activerecord', :require => 'active_record'
 gem "sqlite3"
-gem "rake", "10.4.2"
+gem "rake"
 gem "database_cleaner"
